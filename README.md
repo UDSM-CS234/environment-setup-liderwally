@@ -1,6 +1,10 @@
-# CS 234 Lab 1: Hello World"
+#  Name: KOWERO, WALIDI WAZIRI
+#  Registration Number: 2020-04-04390
 
-## 1. Preliminaries
+
+## CS 234 Lab 1: "Hello World"
+
+### 1. Preliminaries
 **GitHub**. We're using GitHub to manage how all the code goes from us to you and back to us again. That means you'll need to create yourself an account at https://github.com. If you haven't already done so, you need to it now.
 
 **Student Introduction**. We have an introduction form in the LMS to track all of the students in the class. Please fill it out ASAP if you haven't already done so. If you don't fill out the form, we won't be able to give you a grade in the class.
